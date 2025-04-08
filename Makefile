@@ -13,6 +13,7 @@ build:
 
 # Run tests
 tests_run:
+	chmod +x run_tests.sh
 	./run_tests.sh
 
 # Clean up build files
